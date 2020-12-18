@@ -6,10 +6,10 @@ Object.defineProperty(exports, "__esModule", {
 Object.defineProperty(exports, "default", {
   enumerable: true,
   get: function get() {
-    return _RadioButtonComponent["default"];
+    return _RadioButton.default;
   }
 });
 
-var _RadioButtonComponent = _interopRequireDefault(require("./RadioButtonComponent"));
+var _RadioButton = _interopRequireDefault(require("./RadioButton"));
 
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
